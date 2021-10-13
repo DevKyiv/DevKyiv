@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi 👋, I'm Tamara Koliada </h1>
-<h3 align="center">A passionate Data Scientist and Open Source contributor  </h3>
+<h1 align="center">Hi 👋, from Develoer Circle Community </h1>
+<h3 align="center">We are passionate about Data Science  and Open Source contribution  </h3>
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=tomkax" alt="tomkaX" />
+<img src="https://komarev.com/ghpvc/?username=devckyiv" alt="devckyiv" />
 
  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/amazonaws.svg" alt="aws"  width="20" height="20" /> 
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
