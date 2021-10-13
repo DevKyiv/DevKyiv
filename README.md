@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi 👋, from Develoer Circle Community </h1>
+<h1 align="center">Hi 👋, from Developer Circle Community </h1>
 <h3 align="center">We are passionate about Data Science  and Open Source contribution  </h3>
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
