@@ -33,16 +33,16 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="20" height="20"/> 
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="20" height="20"/></p>
 
-- 👨‍💻 All of my projects are available  [here](https://github.com/tomkaX?tab=repositories)
+- 👨‍💻 All of my projects are available  [here](https://github.com/devckyiv?tab=repositories)
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **tomacolyada@gmail.com**
+- 📫 How to reach me **devckyiv@gmail.com**
 
 
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=tomkax&show_icons=true" alt="tomkaX" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devckyiv&show_icons=true" alt="devckyiv" />
   <img  align="right" src="https://github.com/tomkaX/tomkaX/blob/master/gifs/3aM.gif" width="230">
  </p>
  <!--
